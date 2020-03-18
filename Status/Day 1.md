@@ -134,8 +134,4 @@ print(ans)
 ## Conclusion
 ***These was the solved problems of day 1. The above problems are very easy for the basic syntex learners.I have shown some easy ways of coding in my solutions. Lets see how to face and attack new problems in the next day.***
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%202.md "Next Day")
-
-
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%202.md "Next Day")

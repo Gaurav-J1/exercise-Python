@@ -162,8 +162,6 @@ func = lambda a,b: print(max((a,b),key=len)) if len(a)!=len(b) else print(a+'\n'
 ------------
 
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%208.md "Day 9")
+[***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%208.md "Day 9")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_10.md "Day 10")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_10.md "Day 10")

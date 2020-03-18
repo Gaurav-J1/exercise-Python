@@ -133,8 +133,6 @@ total = int(a) + int(2*a) + int(3*a) + int(4*a)  # N*a=Na, for example  a="23", 
 print(total)
 ```
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%203.md "Day 3")
+[***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%203.md "Day 3")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%205.md "Day 5")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%205.md "Day 5")

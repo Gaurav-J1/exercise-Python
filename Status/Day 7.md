@@ -105,8 +105,6 @@ print(dist)
 ```
 ------------------
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%206.md "Day 6")
+[***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%206.md "Day 6")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%208.md "Day 8")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%208.md "Day 8")
