@@ -164,6 +164,6 @@ print(sum)
 ```
 ----------------
 
-[***go to previous day***](hhttps://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2023.md "Day 23")
+[***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2023.md "Day 23")
 
 # To Be Continue...

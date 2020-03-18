@@ -191,4 +191,4 @@ print solutions
 
 [***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2021.md "Day 21")
 
-[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2022.md "Day 23")
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2023.md "Day 23")

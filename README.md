@@ -41,35 +41,35 @@
 
 * **[Day 9](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%209.md "Day 9 Status")**- ***Question 26-30***
 
-* **[Day 10](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_10.md "Day 10 Status")**- ***Question 31-37***
+* **[Day 10](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2010.md "Day 10 Status")**- ***Question 31-37***
 
-* **[Day 11](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_11.md "Day 11 Status")**- ***Question 38-43***
+* **[Day 11](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2011.md "Day 11 Status")**- ***Question 38-43***
 
-* **[Day 12](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_12.md "Day 12 Status")**- ***Question 44-46***
+* **[Day 12](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2012.md "Day 12 Status")**- ***Question 44-46***
 
-* **[Day 13](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_13.md "Day 13 Status")**- ***Question 47-50***
+* **[Day 13](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2013.md "Day 13 Status")**- ***Question 47-50***
 
-* **[Day 14](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_14.md "Day 14 Status")**- ***Question 51-53***
+* **[Day 14](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2014.md "Day 14 Status")**- ***Question 51-53***
 
-* **[Day 15](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_15.md "Day 15 Status")**- ***Question 54-59***
+* **[Day 15](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2015.md "Day 15 Status")**- ***Question 54-59***
 
-* **[Day 16](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_16.md "Day 16 Status")**- ***Question 60-64***
+* **[Day 16](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2016.md "Day 16 Status")**- ***Question 60-64***
 
-* **[Day 17](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_17.md "Day 17 Status")**- ***Question 65-69***
+* **[Day 17](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2017.md "Day 17 Status")**- ***Question 65-69***
 
-* **[Day 18](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_18.md "Day 18 Status")**- ***Question 70-74***
+* **[Day 18](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2018.md "Day 18 Status")**- ***Question 70-74***
 
-* **[Day 19](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_19.md "Day 19 Status")**- ***Question 75-79***
+* **[Day 19](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2019.md "Day 19 Status")**- ***Question 75-79***
 
-* **[Day 20](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_20.md "Day 20 Status")**- ***Question 80-84***
+* **[Day 20](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2020.md "Day 20 Status")**- ***Question 80-84***
 
-* **[Day 21](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_21.md "Day 21 Status")**- ***Question 85-89***
+* **[Day 21](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2021.md "Day 21 Status")**- ***Question 85-89***
 
-* **[Day 22](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_22.md "Day 22 Status")**- ***Question 90-94***
+* **[Day 22](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2022.md "Day 22 Status")**- ***Question 90-94***
 
-* **[Day 23](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_23.md "Day 23 Status")**- ***Question 95-99***
+* **[Day 23](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2023.md "Day 23 Status")**- ***Question 95-99***
 
-* **[Day 24](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day_24.md "Day 24 Status")**- ***Question 100-103***
+* **[Day 24](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2024.md "Day 24 Status")**- ***Question 100-103***
 
 
 ----------------------
