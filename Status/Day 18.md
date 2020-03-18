@@ -1,4 +1,3 @@
-
 # Question 70
 
 ### **Question**
@@ -142,8 +141,6 @@ print(resp)
 ---------------------
 
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_17.md "Day 17")
+[***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2017.md "Day 17")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_19.md "Day 19")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2019.md "Day 19")

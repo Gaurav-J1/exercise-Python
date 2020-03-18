@@ -244,8 +244,6 @@ print(list(evenNumbers))
 ------------------
 
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_10.md "Day 10")
+[***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2010.md "Day 10")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_12.md "Day 12")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2012.md "Day 12")

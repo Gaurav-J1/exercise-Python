@@ -206,8 +206,6 @@ print(rand_num)
 ---------------------
 
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_16.md "Day 16")
+[***go to previous day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2016.md "Day 16")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_18.md "Day 18")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***go to next day***](https://github.com/adityanjr/exercise-Python/blob/master/Status/Day%2018.md "Day 18")
