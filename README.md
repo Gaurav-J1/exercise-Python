@@ -1,4 +1,4 @@
-# Python-programming-exercises
+# Python-exercises
 ---------------------
 ##	Introduction 
 
@@ -73,4 +73,4 @@
 
 
 ----------------------
-### **_Sharing new questions and solutions are warmly welcome. Be a proud contributor of this repository by just making a pull request of your changes._**  
+### **_Happy Coding_**  
